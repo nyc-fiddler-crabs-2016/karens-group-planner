@@ -33,7 +33,7 @@ group :development, :test do
   gem 'byebug'
   gem 'pry-rails'
   gem 'rspec-rails'
-  gem 'shoulda-matchers', '2.5.0'
+  # gem 'shoulda-matchers', '2.5.0'
   gem 'faker'
   gem 'factory_girl_rails'
   gem 'table_print'
